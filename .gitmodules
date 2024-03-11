@@ -1,0 +1,3 @@
+[submodule "birthdayGreetingsKata"]
+	path = birthdayGreetingsKata
+	url = git@github.com:aglezg/kataBirthdayGreetings.git
